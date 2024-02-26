@@ -1,4 +1,5 @@
 # cloudtrail-eventbridge-sns-signin
+NOTE: We can specify project NAME here "setting up alerts in real time for any console sign in for a specific user"
 
 Creating a CloudTrail Trail and EventBridge Alert for Console Sign-Ins
 
